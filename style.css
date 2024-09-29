@@ -1079,7 +1079,7 @@ footer > p {
         
     }
 }
-@media (max-height: 1170px),(max-width: 500px)
+@media (min-height: 1170px),(max-width: 500px)
 {
     #sobrescratch{
         font-size: 30px;
